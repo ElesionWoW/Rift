@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Rift
+## Author: Elesion
+## Version: 0.3
+## Notes: A menu for mage teleports.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+Rift.lua
